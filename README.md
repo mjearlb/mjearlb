@@ -1,6 +1,8 @@
-Hello! I am a mathematics student at the University of Georgia. I also have a minor in Music and a Certificate in Computing. 
+Hello! I am currently a PhD student in Computer Science at the University of Georgia. 
 
-I currently know Java, C, SQL, and a little C++. Currently working to practice and learn more Java. 
+B.S. in Mathematics from the University of Georgia | Music minor | Certificate in Computing 2023
+
+I currently know Java, C, SQL, and a little C++.  
 
 Have done projects related to JavaFX, API usage, networking, and OOP. 
 
